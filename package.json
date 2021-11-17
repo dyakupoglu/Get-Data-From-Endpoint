@@ -1,0 +1,15 @@
+{
+  "name": "node-homework-1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This project is the first assignment of the React course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "dogukan.yakupoglu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
